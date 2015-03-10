@@ -1,0 +1,12 @@
+{
+  "name": "gulp-browserify-factor-bundle-example",
+  "version": "0.0.1",
+  "description": "gulp + browserify + factor-bundle",
+  "author": "Matti Lankinen <m.lankinen@iki.fi> (https://github.com/milankinen)",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^9.0.3",
+    "factor-bundle": "^2.4.0",
+    "gulp": "^3.8.11"
+  }
+}
